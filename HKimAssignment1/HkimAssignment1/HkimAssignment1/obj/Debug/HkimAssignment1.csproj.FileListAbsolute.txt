@@ -1,0 +1,11 @@
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\bin\Debug\HkimAssignment1.exe.config
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\bin\Debug\HkimAssignment1.exe
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\bin\Debug\HkimAssignment1.pdb
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.Form1.resources
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.Properties.Resources.resources
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.csproj.GenerateResource.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.exe
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\2-1\PROG2370\assignment\HKimAssignment1\HkimAssignment1\HkimAssignment1\obj\Debug\HkimAssignment1.pdb
